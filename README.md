@@ -1,4 +1,9 @@
 # infant-safety-mobile-app
 
-![Main Screen](main_Screen.jpg)
-![Login Screen](login_Screen.jpg)
+
+
+
+<p float="left">
+  <img src="login_Screen.jpg" alt="Main Screen" width="200" />
+  <img src="main_Screen.jpg" alt="Login Screen" width="200" />
+</p>
